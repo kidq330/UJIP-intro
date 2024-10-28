@@ -9,6 +9,8 @@
             nixd
             nixfmt
 
+            # nodejs # https://pptr.dev/troubleshooting#issues-with-apparmor-on-ubuntu
+            # mermaid-cli # https://github.com/NixOS/nixpkgs/issues/335148
             presenterm
           ];
         };
